@@ -36,12 +36,12 @@ Additionally, you'll need the following Python packages:
    cd linkedin-scraper
    
    Create and activate a virtual environment (optional but recommended):
-   python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+      python -m venv venv
+      source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
-   pip install -r requirements.txt
+      pip install -r requirements.txt
 
-   python linkedin-scrapy.py
+      python linkedin-scrapy.py
    Input the job title you want to search for when prompted.
    View the results in the console. The scraper will output job titles, number of applicants, job criteria, and links to the job postings.
   ```
