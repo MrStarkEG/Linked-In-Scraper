@@ -45,5 +45,3 @@ Additionally, you'll need the following Python packages:
    Input the job title you want to search for when prompted.
    View the results in the console. The scraper will output job titles, number of applicants, job criteria, and links to the job postings.
   ```
-
-   
